@@ -1,65 +1,45 @@
-# Hey there, I'm Akram Ali Goulahssen 👋
+<div align="center">
+Akram Ali Goulahssen
+AI Developer · Cybersecurity Enthusiast · 🇲🇦
+Show Image
+</div>
 
-> 🧠 AI Developer · 🔐 Cybersecurity Enthusiast · 🇲🇦 Building for Morocco
+<div align="center">
+Show Image
+</div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+innovative+tech+solutions;AI+%2B+Cybersecurity+%3D+%F0%9F%94%A5;Focused+on+Morocco's+digital+future;Learning+every+single+day+%F0%9F%9A%80)
+👨‍💻 About Me
 
----
+Ambitious developer building innovative solutions at the intersection of AI and Cybersecurity — with a focus on Morocco's digital future 🇲🇦
 
-## 🚀 About Me
 
-I'm an ambitious developer passionate about building innovative tech solutions at the intersection of **Artificial Intelligence** and **Cybersecurity**. My goal is to develop projects that have a **real impact on Moroccan society**, especially in education and digital transformation.
+🎓 2ème Bac Sciences Physiques-Chimiques
+🏫 Built my high school's official website — solo, from scratch
+🤖 Integrated an AI student chatbot powered by Groq API
+🔐 Applied real cybersecurity measures to protect it
+💡 Mission: EdTech · AI · Secure Systems
 
-- 🎓 Currently in **2ème Bac Sciences Physiques-Chimiques**
-- 🏫 Built the **official website for my high school** — from scratch, solo
-- 🔒 Implemented **real cybersecurity measures** to protect it
-- 🌍 Based in **Morocco** · Building for the 🇲🇦 community
-- 💡 Focused on: **AI · Cybersecurity · Digital Education**
 
----
+🌟 Featured Project — High School Website
+⚙️ StackHTML · CSS · JS · Python🤖 AIGroq-powered student chatbot🔐 SecurityCustom cybersecurity layer🎯 ImpactServing the entire school
 
-## 🛠️ Tech Stack
+🎯 Goals
+pythonakram = {
+  "focus"  : ["AI Development", "Cybersecurity", "EdTech"],
+  "dream"  : "Lead Morocco's digital transformation 🇲🇦",
+  "learning": ["Advanced AI", "Ethical Hacking", "React"],
+  "open_to": ["Collaborations", "Internships", "Open Source"]
+}
 
-| Category | Technologies |
-|----------|-------------|
-| 🌐 Frontend | HTML5 · CSS3 · JavaScript · React |
-| 🐍 Backend | Python · SQL |
-| 🔐 Security | Web App Security · Linux · Vulnerability Assessment |
+<div align="center">
+Show Image
+Show Image
+</div>
 
----
-
-## 🔐 Cybersecurity Skills
-
-- 🛡️ Web Application Security
-- 🔍 Vulnerability Assessment
-- 🔒 Secure Development Practices
-- 🖥️ Linux System Hardening
-
----
-
-## 🌟 Featured Project
-
-### 🏫 High School Official Website
-> A complete, secure web platform built entirely by me for my high school.
-
-| | |
-|---|---|
-| ⚙️ **Tech** | HTML · CSS · JavaScript · Python |
-| 🔐 **Security** | Custom cybersecurity layer implemented |
-| 🎯 **Impact** | Serving the entire school community |
-| 📌 **Status** | Live & maintained |
-
----
-
-## 🎯 Goals
-
-```python
-akram = {
-    "mission": "Build tech that empowers Moroccan society",
-    "focus": ["Artificial Intelligence", "Cybersecurity", "EdTech"],
-    "dream": "Lead Morocco's digital transformation 🇲🇦",
-    "currently_learning": ["Advanced AI", "Ethical Hacking", "React"],
-    "open_to": ["Collaborations", "Internships", "Open Source"]
+<div align="center">
+🐙 github.com/mr-goulahssen
+"The best way to predict the future is to build it." 🚀
+</div>
 }
 ```
 
