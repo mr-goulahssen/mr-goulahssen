@@ -1,67 +1,61 @@
 <div align="center">
-Akram Ali Goulahssen
-AI Developer · Cybersecurity Enthusiast · 🇲🇦
-Show Image
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0047AB&height=200&section=header&text=Akram%20Ali%20Goulahssen&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20%F0%9F%87%B2%F0%9F%87%A6&descAlignY=55&descSize=18"/>
 </div>
-
 <div align="center">
 Show Image
 </div>
 
 👨‍💻 About Me
-
-Ambitious developer building innovative solutions at the intersection of AI and Cybersecurity — with a focus on Morocco's digital future 🇲🇦
-
-
-🎓 2ème Bac Sciences Physiques-Chimiques
-🏫 Built my high school's official website — solo, from scratch
-🤖 Integrated an AI student chatbot powered by Groq API
-🔐 Applied real cybersecurity measures to protect it
-💡 Mission: EdTech · AI · Secure Systems
-
-
-🌟 Featured Project — High School Website
-⚙️ StackHTML · CSS · JS · Python🤖 AIGroq-powered student chatbot🔐 SecurityCustom cybersecurity layer🎯 ImpactServing the entire school
-
-🎯 Goals
 pythonakram = {
-  "focus"  : ["AI Development", "Cybersecurity", "EdTech"],
-  "dream"  : "Lead Morocco's digital transformation 🇲🇦",
-  "learning": ["Advanced AI", "Ethical Hacking", "React"],
-  "open_to": ["Collaborations", "Internships", "Open Source"]
+    "name"     : "Akram Ali Goulahssen",
+    "role"     : ["AI Developer", "Cybersecurity Enthusiast"],
+    "education": "2ème Bac Sciences Physiques-Chimiques 🎓",
+    "location" : "Morocco 🇲🇦",
+    "mission"  : "Build tech that empowers Moroccan society",
+    "focus"    : ["AI", "Cybersecurity", "EdTech"],
+    "learning" : ["Advanced AI", "Ethical Hacking", "React"],
+    "open_to"  : ["Collaborations", "Internships", "Open Source"],
 }
 
+🛠️ Tech Stack
+<div align="center">
+Show Image
+</div>
+
+🌟 Featured Project
+<div align="center">
+🏫 High School Official Website⚙️ StackHTML · CSS · JavaScript · Python🤖 AIStudent chatbot powered by Groq API🔐 SecurityCustom cybersecurity layer implemented🎯 ImpactServing the entire school community📌 Status✅ Live & maintained
+</div>
+
+📊 GitHub Stats
 <div align="center">
 Show Image
 Show Image
 </div>
+<div align="center">
+Show Image
+</div>
+
+🏆 Trophies
+<div align="center">
+Show Image
+</div>
+
+📈 Activity Graph
+<div align="center">
+Show Image
+</div>
+
+🐍 Contributions
+<div align="center">
+Show Image
+</div>
 
 <div align="center">
-🐙 github.com/mr-goulahssen
+Show Image
 "The best way to predict the future is to build it." 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047AB,100:00F7FF&height=100&section=footer"/>
 </div>
-}
-```
-
----
-
-## 📊 GitHub Stats
-
-![Akram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-goulahssen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-goulahssen&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 📫 Connect With Me
-
-- 🐙 GitHub: [github.com/mr-goulahssen](https://github.com/mr-goulahssen)
-
----
-
-<div align="center">
-
-*"The best way to predict the future is to build it."* 🚀
 
 **⭐ If you find my work interesting, feel free to star my repos!**
 
