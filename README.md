@@ -1,107 +1,73 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   AKRAM ALI GOULAHSSEN                                    ║
-║   Full-Stack Developer  ·  Cybersecurity Enthusiast       ║
-║   Morocco 🇲🇦                                             ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
+# Akram Ali Goulahsen
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+secure+tech+for+Morocco+%F0%9F%87%B2%F0%9F%87%A6;Full-Stack+%2B+Cybersecurity;Code+%7C+Secure+%7C+Deploy)](https://git.io/typing-svg)
+**Full-Stack Developer · Cybersecurity Enthusiast**
+
+🇲🇦 Morocco &nbsp;·&nbsp; 🎓 2ème Bac Sciences Physiques-Chimiques &nbsp;·&nbsp; 🟢 Open to opportunities
 
 </div>
 
 ---
 
-## `$ whoami`
+### 👨‍💻 About Me
 
-```python
-developer = {
-    "name"      : "Akram Ali Goulahssen",
-    "role"      : ["Full-Stack Developer", "Cybersecurity Enthusiast"],
-    "location"  : "Morocco 🇲🇦",
-    "education" : "2ème Bac Sciences Physiques-Chimiques",
-    "mission"   : "Build tech that empowers Moroccan society",
-    "focus"     : ["AI", "Cybersecurity", "EdTech"],
-    "learning"  : ["Advanced AI", "Ethical Hacking", "React"],
-    "open_to"   : ["Collaborations", "Internships", "Open Source"],
-    "status"    : "🟢 Available for opportunities"
-}
-```
+I'm a passionate developer focused on building secure, impactful tech for Moroccan society. My work sits at the intersection of **AI**, **Cybersecurity**, and **EdTech**.
+
+- 🔭 Currently working on a high school platform with AI chatbot integration
+- 🌱 Learning Advanced AI, Ethical Hacking & React
+- 🤝 Open to collaborations, internships & open source
+- 💬 Ask me about web development & cybersecurity
 
 ---
 
-## `$ ls ./tech-stack`
+### 🛠️ Tech Stack
 
-**Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-
-**Backend**
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=339933)
-
-**Security & Tools**
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VSCode-0D1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=flat-square&logo=kalilinux&logoColor=557C94)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## `$ cat featured-project.md`
+### 🚀 Featured Project
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  🏫  HIGH SCHOOL OFFICIAL WEBSITE                       │
-├─────────────────────────────────────────────────────────┤
-│  Stack    │  HTML · CSS · JavaScript · Python           │
-│  AI       │  Student chatbot powered by Groq API        │
-│  Security │  Custom cybersecurity layer implemented     │
-│  Impact   │  Serving the entire school community        │
-│  Status   │  ✅ Live & maintained                       │
-└─────────────────────────────────────────────────────────┘
-```
+**🏫 High School Official Website**
+
+A full platform serving the entire school community, featuring an AI-powered student chatbot (Groq API) with a custom cybersecurity layer built on top.
+
+`HTML` `CSS` `JavaScript` `Python` · ✅ Live & maintained
 
 ---
 
-## `$ git log --stats`
+### 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-goulahssen&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-goulahssen&show_icons=true&theme=default&hide_border=true&title_color=333&icon_color=333)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-goulahssen&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mr-goulahssen&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-goulahssen&layout=compact&hide_border=true&title_color=333)
 
 </div>
 
 ---
 
-## `$ ping --contact`
+### 📬 Contact
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mr-goulahssen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/mr-goulahssen)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your@email.com)
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mr-goulahssen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-goulahssen)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 ---
 
 <div align="center">
 
-```
-"The best way to predict the future is to build it." 🚀
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=mr-goulahssen&color=00F7FF&style=flat-square&label=PROFILE+VIEWS)
+*"The best way to predict the future is to build it." 🚀*
 
 </div>
